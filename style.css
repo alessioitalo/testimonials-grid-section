@@ -10,8 +10,9 @@ body {
 }
 
 .main{
-  margin:5% 5%;
-  padding: 5%;
+  /* margin:5% 5%; */
+  padding: 4% 10%;
+
 }
 
 .next-to-name{
@@ -54,7 +55,7 @@ body {
 }
 
 .daniel{
-  background-image: url('./bg-pattern-quotation.svg');
+  background-image: url('./images/bg-pattern-quotation.svg');
   background-repeat: no-repeat;
   background-position-y: 10%;
   background-position-x: 75%;
